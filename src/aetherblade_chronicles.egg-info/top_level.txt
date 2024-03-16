@@ -1,0 +1,6 @@
+actions
+equipments
+game
+rendering
+skills
+vocations
